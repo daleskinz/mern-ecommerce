@@ -1,1 +1,1 @@
-$ npm install --save @github/clipboard-copy-element
+ ```$ npm install --save @github/clipboard-copy-element  ```
